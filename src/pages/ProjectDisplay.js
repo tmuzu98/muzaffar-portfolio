@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from "react";
 import { useParams } from "react-router-dom";
 import { ProjectList } from "../helpers/ProjectList";
@@ -10,6 +11,7 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1> {project.name}</h1>
+      {/* eslint-disable-next-line */}
       <img src={project.image} />
       <p>
         <b>Skills:</b> {project.skills}
