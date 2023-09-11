@@ -10,11 +10,6 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
         <a
-          href='https://www.instagram.com/muzaffarhusain_'
-        >
-          <InstagramIcon />
-        </a>
-        <a
           href='https://www.facebook.com/tmuzu96'
         >
           <FacebookIcon />
