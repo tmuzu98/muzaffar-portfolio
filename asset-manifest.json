@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/muzaffar-portfolio/static/css/main.a54753e3.css",
+    "main.js": "/muzaffar-portfolio/static/js/main.86645110.js",
+    "static/js/787.fb771931.chunk.js": "/muzaffar-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/proj6.png": "/muzaffar-portfolio/static/media/proj6.d581a4e1094707b8dbef.png",
+    "static/media/proj3.webp": "/muzaffar-portfolio/static/media/proj3.0d4c570c4d95f46d5dc3.webp",
+    "static/media/proj4.webp": "/muzaffar-portfolio/static/media/proj4.97e6ac5e5a62e5962166.webp",
+    "static/media/proj2.jpg": "/muzaffar-portfolio/static/media/proj2.9fcf4dc163c4d1663027.jpg",
+    "static/media/proj5.jpg": "/muzaffar-portfolio/static/media/proj5.790886a594c8825eaef0.jpg",
+    "index.html": "/muzaffar-portfolio/index.html",
+    "main.a54753e3.css.map": "/muzaffar-portfolio/static/css/main.a54753e3.css.map",
+    "main.86645110.js.map": "/muzaffar-portfolio/static/js/main.86645110.js.map",
+    "787.fb771931.chunk.js.map": "/muzaffar-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54753e3.css",
+    "static/js/main.86645110.js"
+  ]
+}
